@@ -1,8 +1,0 @@
--download arduino IDE
-	-https://www.arduino.cc/en/Main/Software
--figure out board
-	-downloaded galileo from board manager
-		-tools --> boards --> board manager --> search for 'intel' --> select the galileo
-	-we have a Galileo Gen2 (this should be showing up in the board list now)
--connect with micro USB (bought one)
-	-ran sample Blink program on board
